@@ -29,3 +29,12 @@ Manager Expecttaions: 65 % of Gen-z have opted for managers who support and prov
 
 **Learning Points**
 Cleaning the datasets and having the data dump uploaded in MYSQL database which helped in breaking the business questions and finding those answers which otherwise would have been impossible also creating Power BI  Dashboard using Dax has helped to arrive at a solution and helped to access the standings as well.
+
+
+
+| Sl.No| Methodology| Mode| Link|
+|-|-|-|-|
+|1| Introduction | Explanation |[ ](-)
+|2| MY-SQL | Worksheet |[ Explanation link]( )
+|3| PowerBI Dashboard | Presentation |[ Explanation link]()
+|4| Presentation  | Video Mode |[Youtube link ](https://www.youtube.com/watch?app=desktop&v=rwX7PMjHn20)
