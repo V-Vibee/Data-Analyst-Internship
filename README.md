@@ -35,6 +35,6 @@ Cleaning the datasets and having the data dump uploaded in MYSQL database which 
 | Sl.No| Methodology| Mode| Link|
 |-|-|-|-|
 |1| Introduction | Explanation |[ ](-)
-|2| MY-SQL | Worksheet |[ Explanation link]( )
+|2| MY-SQL | Worksheet |[ Explanation link](https://github.com/V-Vibee/Data-Analyst-Internship/tree/main/sql)
 |3| PowerBI Dashboard | Presentation |[ Explanation link](https://github.com/V-Vibee/Data-Analyst-Internship/tree/main/Powerbi)
 |4| Presentation  | Video Mode |[Youtube link ](https://www.youtube.com/watch?app=desktop&v=rwX7PMjHn20)
