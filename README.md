@@ -1,16 +1,16 @@
 # Data-Analyst-Internship 
 
-![1701611697512](https://github.com/V-Vibee/Data-Analyst-Internship/assets/91024678/a0937f63-ee3c-42cb-828e-7e6e0730b6d5)
+
 
 
 **Workplace Expectation &amp; Career Aspirations of Gen-Z**
 
 
 **Objective**
-
 The project "Understanding the career aspirations of Gen-Z", which I had worked on during my Internship at KultureHire. Deals with all those challenges and expectations of the current workforce which commence 36 % of total workforce globally With rapid technological advancements and shifting market dynamics, it is important to understand how the GEN-Z as a community is entering and adcvancing the workforce with a unique set of qualities and aspirations and shaping the future of their career and here am trying to decode it.
 
-** Problem Statement**
+
+**Problem Statement**
 dDeep dived into understanding & knowing the Career Aspirations of Gen-Z 
 
 Problem Statement: Off late it has been found that most of the  employers are trying hard to retain the talents, it becomes quite essential to understand the aspirations of Gen Z as well, who enter the workforce with unique values, expectations. It is crucial for them to understand it effectively and provide an eco-system of support and thereby bridging those gaps. Our project aimed to shed light on their career aspirations and provide valuable insights through our Power BI dashboard.
