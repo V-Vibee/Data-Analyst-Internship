@@ -1,6 +1,9 @@
 # Data-Analyst-Internship 
 
 
+![64d20f17153ccface3a95ac1_648af7159498438adce4921d_gen-z-blog-2](https://github.com/V-Vibee/Data-Analyst-Internship/assets/91024678/43bb6f60-aeff-4fcf-bb78-01601d480607)
+
+
 
 
 **Workplace Expectation &amp; Career Aspirations of Gen-Z**
