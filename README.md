@@ -25,9 +25,11 @@ Off late it has been found that most of the  employers are trying hard to retain
 6. Recommendations.
    
 **Generated Insights:**
+
 Manager Expecttaions: 65 % of Gen-z have opted for managers who support and provide clear cut directions in workplace and who support with their workplace chal;lenges.Parental Influence: 31% of Gen Z individuals are highly influenced by their parents when it comes to making career decisions. Self-funded Higher Education: 45% of Gen Z aspires to pursue higher education using theirfirst hard earned money. They are determined to take charge of their educational journey and invest in their future. Mission-Driven Organization: 67% of Gen Z individuals prioritize working for companies with a clearly defined mission. They seek purpose and alignment with the organization's values in their career choices. . Flexible Work Environment: 29% of Gen Z individuals seek a flexible work environment which consist of Hybrid option as well, with a preference for fully remote work and minimal travel. They value work-life balance and the freedom to manage their time effectively.
 
 **Learning Points**
+
 Cleaning the datasets and having the data dump uploaded in MYSQL database which helped in breaking the business questions and finding those answers which otherwise would have been impossible also creating Power BI  Dashboard using Dax has helped to arrive at a solution and helped to access the standings as well.
 
 
