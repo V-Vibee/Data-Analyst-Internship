@@ -37,5 +37,5 @@ Cleaning the datasets and having the data dump uploaded in MYSQL database which 
 |1| Introduction | Explanation |[ ](-)
 |2| MY-SQL | Worksheet |[ Explanation link](https://github.com/V-Vibee/Data-Analyst-Internship/tree/main/sql)
 |3| PowerBI Dashboard | Presentation |[ Explanation link](https://github.com/V-Vibee/Data-Analyst-Internship/tree/main/Powerbi)
-|4| PPT | Slides |[ Files](-)
+|4| PPT | Slides |[ Files](https://github.com/V-Vibee/Data-Analyst-Internship/blob/main/Career-Aspirations-_-Workplace-Expectation-of-Gen-Z.pptm-_1_%20(1).ppt)
 |5| Presentation  | Video Mode |[Youtube link ](https://www.youtube.com/watch?app=desktop&v=rwX7PMjHn20)
