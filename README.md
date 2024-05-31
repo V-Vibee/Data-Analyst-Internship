@@ -13,10 +13,19 @@ The project "Understanding the career aspirations of Gen-Z", which I had worked 
 
 
 **Problem Statement**
-dDeep dived into understanding & knowing the Career Aspirations of Gen-Z 
+Off late it has been found that most of the  employers are trying hard to retain the talents, it becomes quite essential to understand the aspirations of Gen Z as well, who enter the workforce with unique values, expectations. It is crucial for them to understand it effectively and provide an eco-system of support and thereby bridging those gaps. Our project aimed to shed light on their career aspirations and provide valuable insights through our Power BI dashboard.
 
-Problem Statement: Off late it has been found that most of the  employers are trying hard to retain the talents, it becomes quite essential to understand the aspirations of Gen Z as well, who enter the workforce with unique values, expectations. It is crucial for them to understand it effectively and provide an eco-system of support and thereby bridging those gaps. Our project aimed to shed light on their career aspirations and provide valuable insights through our Power BI dashboard.
 
-Generated Insights: Manager Expecttaions: 65 % of Gen-z have opted for managers who support and provide clear cut directions in workplace and who support with their workplace chal;lenges.Parental Influence: 31% of Gen Z individuals are highly influenced by their parents when it comes to making career decisions. Self-funded Higher Education: 45% of Gen Z aspires to pursue higher education using theirfirst hard earned money. They are determined to take charge of their educational journey and invest in their future. Mission-Driven Organization: 67% of Gen Z individuals prioritize working for companies with a clearly defined mission. They seek purpose and alignment with the organization's values in their career choices. . Flexible Work Environment: 29% of Gen Z individuals seek a flexible work environment which consist of Hybrid option as well, with a preference for fully remote work and minimal travel. They value work-life balance and the freedom to manage their time effectively.
+**Methodology/ Approach**
+1. Data Collection & sourcing was done using personalized forms via various channels via linkedin, gmail, facebook, whatsapp.
+2. Data Cleaning using Advanaced Excel.
+3. Data quering  and addressing business questions via MYSQL.
+4. Dashboard presentation via Powr-BI.
+5. Insights generation & company presentation: BCG.
+6. Recommendations.
+   
+**Generated Insights:**
+Manager Expecttaions: 65 % of Gen-z have opted for managers who support and provide clear cut directions in workplace and who support with their workplace chal;lenges.Parental Influence: 31% of Gen Z individuals are highly influenced by their parents when it comes to making career decisions. Self-funded Higher Education: 45% of Gen Z aspires to pursue higher education using theirfirst hard earned money. They are determined to take charge of their educational journey and invest in their future. Mission-Driven Organization: 67% of Gen Z individuals prioritize working for companies with a clearly defined mission. They seek purpose and alignment with the organization's values in their career choices. . Flexible Work Environment: 29% of Gen Z individuals seek a flexible work environment which consist of Hybrid option as well, with a preference for fully remote work and minimal travel. They value work-life balance and the freedom to manage their time effectively.
 
-Learning Points:- Cleaning the datasets and having the data dump uploaded in MYSQL database which helped in breaking the business questions and finding those answers which otherwise would have been impossible also creating Power BI  Dashboard using Dax has helped to arrive at a solution and helped to access the standings as well.
+**Learning Points**
+Cleaning the datasets and having the data dump uploaded in MYSQL database which helped in breaking the business questions and finding those answers which otherwise would have been impossible also creating Power BI  Dashboard using Dax has helped to arrive at a solution and helped to access the standings as well.
