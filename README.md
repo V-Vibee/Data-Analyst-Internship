@@ -12,7 +12,7 @@ The project "Understanding the career aspirations of Gen-Z", which I had worked 
 
 
 **Problem Statement**
-Off late it has been found that most of the  employers are trying hard to retain the talents, it becomes quite essential to understand the aspirations of Gen Z as well, who enter the workforce with unique values, expectations. It is crucial for them to understand it effectively and provide an eco-system of support and thereby bridging those gaps. Our project aimed to shed light on their career aspirations and provide valuable insights through our Power BI dashboard.
+Off late it has been found that most of the  employers are trying hard to retain the talents, it becomes quite essential to understand the aspirations of Gen Z as well, who enter the workforce with unique values, expectations. It is crucial for them to understand it effectively and provide an eco-system of support and thereby bridging those gaps. My project aimed to shed light on their career aspirations and provide valuable insights through our Power BI dashboard.
 
 
 **Methodology/ Approach**
